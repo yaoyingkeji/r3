@@ -396,7 +396,7 @@
 			"currentState":"当前值",
 			"extCommunity":"REI3 社区论坛",
 			"extLicense":"REI3 专业版",
-			"intro":"REI3 是完全<a href=\"https://github.com/r3-team/r3\" target=\"_blank\">开源</a>，可免费使用。<br /><br />对于需要企业功能或支持的用户，有<b>REI3 专业版</b>。其价格定位是负担得起的，适用于任何规模的组织，通常比其他低代码产品的价格低得多。<br /><br />在支持持续发展的同时，REI3 专业版客户还可以激活完整的功能范围，并获得 Lean Softworks（REI3 的主要开发者）的支持。",
+			"intro":"REI3 是完全<a href=\"https://github.com/r3-team/r3\" target=\"_blank\">开源</a>，可免费使用。<br /><br />对于需要企业功能或支持的用户，有<b>REI3 专业版</b>。其价格定位是实惠的，适用于任何规模的组织企业，通常比其他低代码产品的价格低得多。<br /><br />在支持持续发展的同时，REI3 专业版客户还可以激活完整的功能范围，并获得 Lean Softworks（REI3 的主要开发者）的支持。",
 			"introMore":"更多信息：",
 			"licenseExpired":"许可已过期",
 			"licenseId":"许可 ID",
@@ -549,7 +549,7 @@
 				"installFailed":"应用程序更新失败。当更新单个应用程序时，缺少依赖关系可能会导致问题-请尝试一起更新所有应用程序以解决这些问题。<br /><br />错误消息：{ERROR}",
 				"uploadFailed":"无法从上传的文件中添加应用程序。请将传输的日志级别增加到“全部”，然后重试-详细信息将显示在系统日志中。"
 			},
-			"changeLog":"变更日志",
+			"changeLog":"更新记录",
 			"hidden":"隐藏",
 			"import":"从文件添加",
 			"position":"菜单中的顺序",
@@ -557,9 +557,9 @@
 			"releaseDate":"发布日期",
 			"repoNotIncluded":"不可用",
 			"repoOutdatedApp":"需要升级平台",
-			"repoUpToDate":"最新版本",
+			"repoUpToDate":"已是最新版本",
 			"update":"更新",
-			"updateDone":"更新已成功应用"
+			"updateDone":"应用已成功更新"
 		},
 		"oauthClient":{
 			"dialog":{
@@ -1621,7 +1621,7 @@
 		"languagesApp":"应用程序",
 		"languagesInstance":"自定义",
 		"newDesc":[
-			"要添加自定义翻译，请选择其五个字母的语言代码，例如：en_us、de_de、ch_ch、it_it...",
+			"要添加自定义翻译，请选择其五个字母的语言代码，例如：en_us、zh_cn、de_de、ch_ch、it_it...",
 			"如果要覆盖现有的翻译，您也可以添加一个已经存在的语言代码。"
 		],
 		"title":"标题映射",
